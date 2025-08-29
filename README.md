@@ -17,7 +17,7 @@ Ele exibe informações importantes como serviços, horários, notícias e forma
 - JavaScript (para o menu mobile)  
 
 **Por que:**  
-Para fornecer um layout moderno, responsivo e funcional que facilite a navegação de usuários em qualquer dispositivo. Além disso, é um projeto que exige testar e praticar conhecimentos de HTML, CSS e JavaScript, ajudando a reforçar habilidades de desenvolvimento web.  
+Para fornecer um layout moderno, responsivo e funcional que facilite a navegação de usuários em qualquer dispositivo. Além disso, é um projeto que exige testar e praticar conhecimentos de HTML, CSS e JavaScript, ajudando a reforçar habilidades de desenvolvimento web, incluindo boas práticas de programação.
 
 ## Instrução de instalação
 **Pré-requisitos:**  
